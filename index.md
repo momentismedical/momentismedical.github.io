@@ -12,11 +12,9 @@ title: moment is medical
 - Live demos (coming soon)
   
 ## Explore the Ecosystem
-
-- **[Main Blog](https://mdawg1981-tjlhe.wordpress.com)** - experiments + dashboards
-- **[BreachLab](https://breachlab.mountainwaffles.com)** - experiments + dashboards
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
+- **[Snapback](https://snapbackvessel.momentismedical.dev)**
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
 
 ## Socials
