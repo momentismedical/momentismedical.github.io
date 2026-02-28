@@ -26,9 +26,6 @@ title: moment is medical
 - [X](x.com/strait_chlorine) 
 - [Gravatar](https://gravatar.com/momentismedical)
 
-## Contact
-- [email](momentismedical17@gmail.com)
-
 ## Latest Updates
 Content will appear here as the site deploys.
 ## All Posts (Automatic List)
