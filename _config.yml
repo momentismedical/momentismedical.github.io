@@ -7,7 +7,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 permalink: /:title/
 baseurl: "" 
-url: "https://momentismedical.github.io"
+url: "https://momentismedical.momentismedical.dev"
 
 collections:
   posts:
