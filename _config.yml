@@ -1,0 +1,18 @@
+title: "the moment is medical"
+email: momentismedical17@gmail.com
+description: >-
+  momentismedical home base
+
+remote_theme: pages-themes/minimal@v0.2.0
+
+permalink: /:title/
+baseurl: "" 
+url: "https://momentismedical.github.io"
+
+collections:
+  posts:
+    output: true
+
+plugins:
+  - jekyll-gist
+  - jekyll-remote-theme
