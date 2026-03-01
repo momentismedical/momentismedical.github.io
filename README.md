@@ -3,8 +3,11 @@ About
 When chronic pain and illness are not validated, psychological fallout and clinical consequences abound:
 
 * Medical gaslighting leads to trauma, anxiety, and emotional shutdown
+  
 * Isolation intensifies, loved ones, friends, and self will struggle to understand
+  
 * Delayed or denied care occurs, without a label, treatment options shrink, referrals stall, and accommodations get denied.
+  
 All of the above are incredibly overwhelming. Not to mention the radical life changes that take place while we are waiting for answers.
 No one knows what to do, doctors, spouses, friends, loved ones, and most of all ourselves.
 This leaves the undiagnosed not only miserable due to the lack of answers, but also because of a sense of guilt that is inadvertently placed upon us. We can no longer live life as we did before, with seemingly no explanation. It's a living nightmare.
