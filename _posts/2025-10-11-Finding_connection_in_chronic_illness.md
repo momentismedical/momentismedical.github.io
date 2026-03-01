@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Finding Connection in Chronic Illness: Share Your Story
+title: Finding Connection in Chronic Illness 
 ---
 
 
