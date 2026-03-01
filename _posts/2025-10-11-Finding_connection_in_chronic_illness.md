@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to the moment is medical"
+title: Finding Connection in Chronic Illness: Share Your Story
 ---
 
 
