@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sometimes Quiet is Violent |-/
+title: Sometimes Quiet is Violent 
 ---
 
 Sometimes Quiet is Violent |-/
