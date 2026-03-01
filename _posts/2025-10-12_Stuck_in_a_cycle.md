@@ -1,5 +1,5 @@
 ---
-type: post
+layout: post
 title: Stuck in a cycle
 ---
 
