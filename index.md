@@ -5,6 +5,9 @@ title: moment is medical
 
 # Welcome to the moment is medical. This site is currently being configured and deployed.
 
+## Latest Updates
+Content will appear here as the site deploys.
+
 ## All Posts (Automatic List)
 <ul>
   {% for post in site.posts %}
@@ -27,8 +30,7 @@ title: moment is medical
 - [X](x.com/strait_chlorine) 
 - [Gravatar](https://gravatar.com/momentismedical)
 
-## Latest Updates
-Content will appear here as the site deploys.
+
 
 
 <div class="gravatar-hovercard" style="width: 320px; min-width: 320px; max-width: 320px; background-color: #fff; border: 1px solid #d8dbdd; border-radius: 4px; overflow: hidden; box-sizing: border-box;">
