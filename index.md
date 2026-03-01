@@ -12,10 +12,10 @@ title: moment is medical
 - Live demos (coming soon)
   
 ## Explore the Ecosystem
-- **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
-- **[Snapback](https://vessel.momentismedical.dev)**
+- **[Vessel](https://vessel.momentismedical.dev)**
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
+- **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 
 ## Socials
 - [Facebook](https://www.facebook.com/profile.php?id=61582103756491)
