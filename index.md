@@ -5,11 +5,14 @@ title: moment is medical
 
 # Welcome to the moment is medical. This site is currently being configured and deployed.
 
-## What this project will include
-- Documentation
-- Feature roadmap
-- Release notes
-- Live demos (coming soon)
+## All Posts (Automatic List)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
   
 ## Explore the Ecosystem
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
@@ -26,11 +29,3 @@ title: moment is medical
 
 ## Latest Updates
 Content will appear here as the site deploys.
-## All Posts (Automatic List)
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
