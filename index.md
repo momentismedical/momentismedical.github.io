@@ -14,7 +14,7 @@ title: moment is medical
 ## Explore the Ecosystem
 - **[Darkness](https://medium.com/@ending_glosses.26)** - experiments + dashboards
 - **[Wordpress](https://momentismedical.dev)** - longform writing + updates
-- **[Snapback](https://snapbackvessel.momentismedical.dev)**
+- **[Snapback](https://vessel.momentismedical.dev)**
 - **[Medium](https://medium.com/@Snapback17)** - secondary blog
 
 ## Socials
