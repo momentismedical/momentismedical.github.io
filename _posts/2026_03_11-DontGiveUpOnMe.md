@@ -1,5 +1,9 @@
-[Dont_Give_Up_On_Me](https://momentismedical.dev/2026/03/11/dont-give-up-on-me/)
+---
+layout: post
+title: Stuck in a cycle
+---
 
+[Dont_Give_Up_On_Me](https://momentismedical.dev/2026/03/11/dont-give-up-on-me/)
 
 Don't Give Up on Me
 (Title inspired from the song Garbage by twenty øne piløts)
