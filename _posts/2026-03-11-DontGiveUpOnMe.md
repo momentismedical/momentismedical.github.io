@@ -46,6 +46,8 @@ Some days that’s all I can do — be still, trust, breathe, and let God fight 
 
 [garbage_tøp](https://youtu.be/tdFNA7YBM4c?si=jqjXnKEr-9jtTeDL)
 
+![garbage_wc.png](/assets/garbage_wc.png)
+
 The Moment is Medical
 Medium
 Instagram
