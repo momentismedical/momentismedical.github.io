@@ -1,6 +1,8 @@
 
 Overcompensate
 
+[overdrive](assets/68.png)
+
 I’ve been moving through something my body has been trying to tell me for a long time.
 After months/years of running in survival mode, a simple cold pushed my system past its limit and forced a full reset.
 I have dysautonomia — a condition where the autonomic nervous system (the part that controls heart rate, digestion, temperature, and stress responses) doesn’t regulate itself the way it should.
