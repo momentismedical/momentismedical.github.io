@@ -14,7 +14,15 @@ If you’ve been wired, tired, overwhelmed, or suddenly exhausted, this might he
 Check out these sources and share with someone who might need it.
 
 
+[understanding-recognizing-sympathetic-overdrive](https://lifemovesmt.com/understanding-recognizing-sympathetic-overdrive/?copilot_analytics_metadata=eyJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiJSQkRudnAyWnRRYjdhajV5amFBY20iLCJldmVudEluZm9fY2xpY2tEZXN0aW5hdGlvbiI6Imh0dHBzOlwvXC9saWZlbW92ZXNtdC5jb21cL3VuZGVyc3RhbmRpbmctcmVjb2duaXppbmctc3ltcGF0aGV0aWMtb3ZlcmRyaXZlXC8iLCJldmVudEluZm9fbWVzc2FnZUlkIjoidkcyaDlXWjcxYWRyRjJMWndvekVHIiwiZXZlbnRJbmZvX2NsaWNrU291cmNlIjoiY2l0YXRpb25MaW5rIn0%3D&utm_source=copilot.com)
 
+[what is sympathetic overdrive](https://scienceinsights.org/what-is-sympathetic-overdrive-symptoms-and-causes/?utm_source=copilot.com#google_vignette)
+
+[sympathetic overdrive casues signs and management](https://biologyinsights.com/sympathetic-overdrive-causes-signs-and-management/?utm_source=copilot.com#google_vignette)
+
+[sympathetic overdrive chronic impact brain](https://hopebraincenter.com/sympathetic-overdrive-chronic-impact-brain/?utm_source=copilot.com)
+
+[sympathetic nervous system overdrive genetics](https://selfdecode.com/en/pages/sympathetic-nervous-system-overdrive-genetics/?utm_source=copilot.com)
 ﻿
 This image has an empty alt attribute; its file name is 68.jpeg
 This image has an empty alt attribute; its file name is 68-1.jpeg
