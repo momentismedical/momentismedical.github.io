@@ -2,7 +2,7 @@
 Overcompensate
 
 [overcompensate on wordpress](https://momentismedical.dev/2026/03/27/overcompensate/)
-[overdrive](assets/68.jpeg)
+![overdrive](/assets/68.jpeg)
 
 I’ve been moving through something my body has been trying to tell me for a long time.
 After months/years of running in survival mode, a simple cold pushed my system past its limit and forced a full reset.
