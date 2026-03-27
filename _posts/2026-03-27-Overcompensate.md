@@ -1,8 +1,9 @@
+---
+layout: post
+title: Overcompensate
+---
 
-Overcompensate
-
-[overcompensate on wordpress](https://momentismedical.dev/2026/03/27/overcompensate/)
-![overdrive](/assets/68.jpeg)
+[Wordpress](https://momentismedical.dev/2026/03/27/overcompensate/)
 
 I’ve been moving through something my body has been trying to tell me for a long time.
 After months/years of running in survival mode, a simple cold pushed my system past its limit and forced a full reset.
@@ -16,18 +17,19 @@ If you’ve been wired, tired, overwhelmed, or suddenly exhausted, this might he
 👉 Swipe through to learn what sympathetic overdrive is, how it builds, how it collapses, and why the reset phase feels so heavy but is actually a sign of healing.
 Check out these sources and share with someone who might need it.
 
+![overdrive](/assets/68.jpeg)
 
-[understanding-recognizing-sympathetic-overdrive](https://lifemovesmt.com/understanding-recognizing-sympathetic-overdrive/?copilot_analytics_metadata=eyJldmVudEluZm9fY29udmVyc2F0aW9uSWQiOiJSQkRudnAyWnRRYjdhajV5amFBY20iLCJldmVudEluZm9fY2xpY2tEZXN0aW5hdGlvbiI6Imh0dHBzOlwvXC9saWZlbW92ZXNtdC5jb21cL3VuZGVyc3RhbmRpbmctcmVjb2duaXppbmctc3ltcGF0aGV0aWMtb3ZlcmRyaXZlXC8iLCJldmVudEluZm9fbWVzc2FnZUlkIjoidkcyaDlXWjcxYWRyRjJMWndvekVHIiwiZXZlbnRJbmZvX2NsaWNrU291cmNlIjoiY2l0YXRpb25MaW5rIn0%3D&utm_source=copilot.com)
+[understanding-recognizing-sympathetic-overdrive](https://lifemovesmt.com/understanding-recognizing-sympathetic-overdrive/)
 
-[what is sympathetic overdrive](https://scienceinsights.org/what-is-sympathetic-overdrive-symptoms-and-causes/?utm_source=copilot.com#google_vignette)
+[what is sympathetic overdrive](https://scienceinsights.org/what-is-sympathetic-overdrive-symptoms-and-causes/)
 
-[sympathetic overdrive casues signs and management](https://biologyinsights.com/sympathetic-overdrive-causes-signs-and-management/?utm_source=copilot.com#google_vignette)
+[sympathetic overdrive casues signs and management](https://biologyinsights.com/sympathetic-overdrive-causes-signs-and-management/)
 
-[sympathetic overdrive chronic impact brain](https://hopebraincenter.com/sympathetic-overdrive-chronic-impact-brain/?utm_source=copilot.com)
+[sympathetic overdrive chronic impact brain](https://hopebraincenter.com/sympathetic-overdrive-chronic-impact-brain/)
 
-[sympathetic nervous system overdrive genetics](https://selfdecode.com/en/pages/sympathetic-nervous-system-overdrive-genetics/?utm_source=copilot.com)
+[sympathetic nervous system overdrive genetics](https://selfdecode.com/en/pages/sympathetic-nervous-system-overdrive-genetics/)
 
-[overcompensate](https://youtu.be/53tgVlXBZVg?si=Iih_S-PudLel8i4G)
+[topOvercompensate](https://youtu.be/53tgVlXBZVg?si=Iih_S-PudLel8i4G)
 
 #dysautonomia
 #nervoussystem
