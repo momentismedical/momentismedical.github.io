@@ -1,6 +1,7 @@
 
 Overcompensate
 
+[overcompensate on wordpress](https://momentismedical.dev/2026/03/27/overcompensate/)
 [overdrive](assets/68.jpeg)
 
 I’ve been moving through something my body has been trying to tell me for a long time.
@@ -25,17 +26,6 @@ Check out these sources and share with someone who might need it.
 [sympathetic overdrive chronic impact brain](https://hopebraincenter.com/sympathetic-overdrive-chronic-impact-brain/?utm_source=copilot.com)
 
 [sympathetic nervous system overdrive genetics](https://selfdecode.com/en/pages/sympathetic-nervous-system-overdrive-genetics/?utm_source=copilot.com)
-
-
-This image has an empty alt attribute; its file name is 68.jpeg
-This image has an empty alt attribute; its file name is 68-1.jpeg
-This image has an empty alt attribute; its file name is 68-2.jpeg
-This image has an empty alt attribute; its file name is 68-3.jpeg
-This image has an empty alt attribute; its file name is 68-4.jpeg
-This image has an empty alt attribute; its file name is 68-5.jpeg
-This image has an empty alt attribute; its file name is 68-6.jpeg
-This image has an empty alt attribute; its file name is 68-8.jpeg
-This image has an empty alt attribute; its file name is 68-9.jpeg
 
 [overcompensate](https://youtu.be/53tgVlXBZVg?si=Iih_S-PudLel8i4G)
 
